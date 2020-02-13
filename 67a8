@@ -1,0 +1,239 @@
+#EXTM3U
+ 
+# =======================================================
+ 
+# Playlist Name: IPTV
+ 
+# Playlist ID: DayXz
+
+# Date : 10012020
+ 
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-ch3.png" group-title="Free TV", CH3 HD
+http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-ch5.png" group-title="Free TV", CH5
+https://free.fwstream.com:1215/freelive-edge/_definst_/5hd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-ch7.png" group-title="Free TV", BBTV CH7
+https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-mcot.png" group-title="Free TV", Mcot HD
+http://live.pjmcdn.info/live/MCOT-HD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-nbt.png" group-title="Free TV", NBT
+https://free.fwstream.com:1215/freelive-edge/_definst_/nbt.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-tpbs.png" group-title="Free TV", TPBS
+https://free2.fwstream.com:1215/freelive-edge/_definst_/thaipbs.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-tnn24.png" group-title="Free TV", TNN24
+https://free2.fwstream.com:1215/freelive-edge/_definst_/tnn24.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-new.png" group-title="Free TV", New TV
+https://free2.fwstream.com:1215/freelive-edge/_definst_/newstv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-workpoint.png" group-title="Free TV", Workpoint
+https://stream-05.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8vUQ_aNeFJZRa9ly5IrImfs)/dm/3/x6g9qjj/s/live-4.m3u8
+##https://free2.fwstream.com:1215/freelive-edge/_definst_/workpointtv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-24u.png" group-title="Free TV", True4You
+https://free.fwstream.com:1215/freelive-edge/_definst_/true4u.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-gmmchannel.png" group-title="Free TV", GMM
+https://free.fwstream.com:1215/freelive-edge/_definst_/gmmchannel.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-ch8.png" group-title="Free TV", CH8
+https://free.fwstream.com:1215/freelive-edge/_definst_/ch8.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-mono.png" group-title="Free TV", Mono29
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv29_mono29/playlist.m3u8
+##https://free.fwstream.com:1215/freelive-edge/_definst_/mono29.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-gmmone.png" group-title="Free TV", ONE HD
+https://one31-rlbwkq.cdn.byteark.com/live/playlist_480p/index.m3u8
+##https://free.fwstream.com:1215/freelive-edge/_definst_/onehd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-thairath.png" group-title="Free TV", Thairath TV HD
+http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-amarin.png" group-title="Free TV", Amarin
+https://free.fwstream.com:1215/freelive-edge/_definst_/amarinhd.smil/chunklist.m3u8
+##https://free.fwstream.com:1215/freelive-edge/_definst_/7hd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-pptv.png" group-title="Free TV", PPTV
+https://free2.fwstream.com:1215/freelive-edge/_definst_/pptvhd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/20170710190257130955573.jpg", Nation TV
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/nation.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/201801301516261971647980.jpg", Mono PLUS
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/monoplus.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doohdbox.com/assets/20190526113654844678530.jpg", TPTV 10
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv10_tptv/playlist.m3u8
+ 
+ 
+ 
+# =======================================================
+ 
+# Cartoons
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-cartoonnetwork.png" group-title="Cartoon",CARTOON NETWORK
+https://www.livedoomovie.com/02_CartoonNetwork_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-boomerang.png" group-title="Cartoon",Boomerang
+https://www.livedoomovie.com/02_Boomerang_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-cartoonclub.png" group-title="Cartoon",Cartoon Club
+http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
+
+ 
+# =======================================================
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-mtv.png" group-title="Music" ,MTV HD
+https://www.livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-mtvchina.png" group-title="Music" ,MTV Asia
+https://www.livedoomovie.com/02_MTV_Asia_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-mtvasia.png" group-title="Music" ,MTV Music
+https://www.livedoomovie.com/02_MTV_China_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-channelv.png" group-title="Music" ,Channel V
+http://kodinew.dyndns.tv:9981/stream/channelid/1539799167/media.m3u8?
+
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-tmusic.png" group-title="Music" ,True Music
+
+
+
+# =======================================================
+# Movies
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tfilm.jpg" group-title="Moives" ,True Film HD1
+https://www.livedoomovie.com/02_TrueFilmHD1_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tfilm.jpg" group-title="Moives" ,True Film HD2
+https://www.livedoomovie.com/02_TrueFilmHD2_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-hbo.png" group-title="Moives" ,HBO HD
+https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-hbohits.png" group-title="Moives" ,HBO Hit HD
+https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-hbosignature.png" group-title="Moives" ,HBO Signature
+https://www.livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20160920164409FX.jpg" group-title="Moives" ,FX Thailand
+https://www.livedoomovie.com/02_FXThailand_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fox.png" group-title="Moives" ,Fox Thai
+https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png" group-title="Moives" ,FOX MOVIES PREMIUM TH
+https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png" group-title="Moives" ,FOX MOVIES PREMIUM En
+https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png" group-title="Moives" ,FOX ACTION Th
+https://www.livedoomovie.com/02_FoxActionHD_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png" group-title="Moives" ,FOX ACTION En
+https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png" group-title="Moives" ,Fox Family Thai
+https://www.livedoomovie.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png" group-title="Moives" ,Fox Family En
+https://www.livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxcrime.jpg" group-title="Moives" ,FoxCrimeHD TH
+https://www.livedoomovie.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxcrime.jpg" group-title="Moives" ,FoxCrimeHD EN
+https://www.livedoomovie.com/02_FoxCrimeHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg" group-title="Moives" ,RedbyHBO HD
+https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20190305162859AXN.jpg" group-title="Moives" ,AXN HD
+https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/2017012101355220160909202833Warner%20TV.jpg" group-title="Moives" ,WARNER TV HD
+https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20180504023519Paramount%20Channel.jpg" group-title="Moives" ,Paramount Channel
+https://free2.fwstream.com:1215/freelive-edge/_definst_/paramountchannel/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-kix.png" group-title="Moives" ,KIX HD
+https://free.fwstream.com:1215/freelive-edge/_definst_/kixhd/chunklist.m3u8
+
+ 
+
+# =======================================================
+# History
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-history.png" group-title="History",History HD
+https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-history2.png" group-title="History",History2 HD
+https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-mysci.png" group-title="History",MySCI
+https://www.livedoomovie.com/02_MYSCIHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-discovery.png" group-title="History",Discovery Channel
+https://www.livedoomovie.com/02_DiscoveryChannel/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-discovery.png" group-title="History",Discovery
+https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-animalplanet.png" group-title="History",AnimalPlanet
+https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-natgeo.png" group-title="History",NETIONAL GEO HD
+https://www.livedoomovie.com/02_NatGeoHD_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-natgeowild.png" group-title="History",NET GEO WILD HD
+https://www.livedoomovie.com/02_NatGeoWild_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-natgeopeople.png" group-title="History",NET PEOPLE HD
+https://www.livedoomovie.com/02_NatPeopleHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-afc.png" group-title="History",Asianfood Channel
+https://free.fwstream.com:1215/freelive-edge/_definst_/asianfoodchannelhd/chunklist.m3u8
+
+
+# =======================================================
+ 
+# Sports
+ 
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20190810174644premier%20football%20hd%201.jpg" group-title="Sports",True Premier league 1
+|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+
+#EXTINF:-1 tvg-logo="https://images.ufoiptv.com/channels/pml1.jpg" group-title="Sports",Premier league 1
+http://103.208.24.234:1935/thaisport/epl-1.stream/chunklist.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+#EXTINF:-1 tvg-logo="https://images.ufoiptv.com/channels/pml2.jpg" group-title="Sports",Premier league 2
+http://103.208.24.234:1935/thaisport/epl-2.stream/media-uycpcfkkn.m3u8?
+#EXTINF:-1 tvg-logo="https://images.ufoiptv.com/channels/pml3.jpg" group-title="Sports",Premier league 3
+https://live.scc777.tv/live/tpf3/chunks.m3u8?|User-Agent=MX-Player&Referer=https://www.scc777.tv
+#EXTINF:-1 tvg-logo="https://images.ufoiptv.com/channels/pml4.jpg" group-title="Sports",Premier league 4
+https://live.scc777.tv/live/tpf4/chunks.m3u8?|User-Agent=MX-Player&Referer=https://www.scc777.tv
+#EXTINF:-1 tvg-logo="https://images.ufoiptv.com/channels/pml5.jpg" group-title="Sports",Premier league 5
+https://live.scc777.tv/live/tpf5/chunks.m3u8?|User-Agent=MX-Player&Referer=https://www.scc777.tv
+
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/pml1.png" group-title="Sports",BK  Premier league 1
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/pml2.png" group-title="Sports",BK  Premier league 2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/pml3.png" group-title="Sports",BK  Premier league 3
+ https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/pml4.png" group-title="Sports",BK Premier league 4
+ https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/pml5.png" group-title="Sports",BK  Premier league 5
+ https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20161002181203Bein%201.jpg" group-title="Sports",BEIN SPORT HD 1
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20161002181233Bein%202.jpg" group-title="Sports",BEIN SPORT HD 2
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+ 
+
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125111529True_sport%20hd1.jpg" group-title="Sports",True Sport 1 HD
+http://103.208.24.234:1935/thaisport/hd-tsport1.stream/media.m3u8?
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125111626True_sport%20hd2.jpg" group-title="Sports",True Sport 2 HD
+http://103.208.24.234:1935/thaisport/hd-tsport2.stream/media.m3u8?st=st=tts?
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125111757True_sport%20hd3.jpg" group-title="Sports",True Sport 3 HD
+http://103.208.24.234:1935/thaisport/hd-tsport3.stream/media.m3u8?
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125111811True_sport%20hd4.jpg" group-title="Sports",True Sport 4 HD
+http://103.208.24.234:1935/thaisport/hd-tsport4.stream/media.m3u8?
+ 
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20181127121521True_sport2.jpg" group-title="Sports",True Sport 2
+https://www.livedoomovie.com/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112204True_sport5.jpg" group-title="Sports",True Sport 5
+https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112227True_sport6.jpg" group-title="Sports",True Sport 6
+https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112240True_sport7.jpg" group-title="Sports",True Sport 7
+https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20190720230235fight%20sport.jpg" group-title="Sports",FightSportHD
+https://free.fwstream.com:1215/freelive-edge/_definst_/fightsportshd/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20181211150938foxsport-1.jpg" group-title="Sports",Foxsports 1
+http://103.208.24.234:1935/thaisport/hd-foxsports1.stream/media.m3u8?
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20181211150947foxsport-2.jpg" group-title="Sports",Foxsports 2
+http://103.208.24.234:1935/thaisport/sd-foxsports2.stream/media.m3u8?
+#EXTINF:-1 tvg-logo="https://imgcloud.fwiptv.cc/postor/20181211150956foxsport-3.jpg" group-title="Sports",Foxsports 3
+http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/media.m3u8?
+ 
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/uk-btsport1.png" group-title="World Sport" ,BT SPORT HD1
+https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/uk-btsport2.png" group-title="World Sport" ,BT SPORT HD2
+https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://timedotcom.files.wordpress.com/2014/05/world-wrestling-entertainment.jpg?w=800&quality=85" group-title="World Sport" ,WWE
+ 
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-skynet1.png" group-title="World Sport" ,Sky Net 1
+http://103.208.24.234:1935/live1/SKYNET-SPORT-1.stream/media.m3u8?
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-skynet2.png" group-title="World Sport" ,Sky Net 2
+http://103.208.24.234:1935/live1/SKYNET-SPORT-2.stream/media.m3u8?
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-skynet3.png" group-title="World Sport" ,Sky Net 3
+http://103.208.24.234:1935/live1/SKYNET-SPORT-3.stream/media.m3u8?
+#EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-skynet4.png" group-title="World Sport" ,Sky Net 4
+http://103.208.24.234:1935/live1/SKYNET-SPORT-4.stream/media.m3u8?
+ 
+ 
+# =======================================================
