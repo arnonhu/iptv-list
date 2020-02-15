@@ -25,7 +25,7 @@ https://free2.fwstream.com:1215/freelive-edge/_definst_/tnn24.smil/chunklist.m3u
 #EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-new.png" group-title="Free TV", New TV
 https://free2.fwstream.com:1215/freelive-edge/_definst_/newstv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-workpoint.png" group-title="Free TV", Workpoint
-https://stream-05.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8vUQ_aNeFJZRa9ly5IrImfs)/dm/3/x6g9qjj/s/live-4.m3u8
+https://www.livedoomovie.com/02_WORKPOINT_720p/chunklist.m3u8
 ##https://free2.fwstream.com:1215/freelive-edge/_definst_/workpointtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-24u.png" group-title="Free TV", True4You
 https://free.fwstream.com:1215/freelive-edge/_definst_/true4u.smil/chunklist.m3u8
@@ -62,7 +62,7 @@ http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv10_tptv/playlist.m3
 https://www.livedoomovie.com/02_CartoonNetwork_720p/chunklist.m3u8
  
 #EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-boomerang.png" group-title="Cartoon",Boomerang
-https://www.livedoomovie.com/02_Boomerang_720p/chunklist.m3u8
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/boomerang.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/sd-cartoonclub.png" group-title="Cartoon",Cartoon Club
 http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8
