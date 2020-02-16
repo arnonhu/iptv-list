@@ -7,7 +7,7 @@
 # Playlist ID: DayXz
 
 # Date : 10012020
- 
+
 #EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-ch3.png" group-title="Free TV", CH3 HD
 http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.xtreme4k.com/channels/hd-ch5.png" group-title="Free TV", CH5
